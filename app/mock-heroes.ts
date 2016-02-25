@@ -1,4 +1,5 @@
 import {Hero} from './hero';
+import {Http} from 'angular2/http';
 
 export var HEROES: Hero[] = [
     {"id": 11, "name": "Mr. Nice"},
